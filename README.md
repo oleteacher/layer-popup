@@ -1,15 +1,16 @@
 
-## 概要
-layer 是一款历来都备受青睐的 Web 弹出层组件，具备全方位的解决方案，面向的是各个水平段的开发人员，您的页面会轻松地拥有丰富友好的操作体验。在与同类组件的比较中，layer 会更能被开发者所选择。这不仅是凭「脸」取胜，而是它尽可能地在以更少的代码展现更强健的功能，且格外注重性能的提升、易用和实用性，layer 甚至还兼容了包括 IE6 在内的所有主流浏览器。其数量可观的基础属性和方法，使得您可以自定义太多您需要的风格，每一种弹层模式各具特色，广受欢迎。当然，这种「王婆卖瓜」的陈述听起来总是有点难受，因此你需要进一步了解她是否真的如你所愿。
+## Overview
 
-[文档与演示](http://layer.layui.com/) 
+Layer is a popular Web pop-up layer component that has always been popular. It has a comprehensive solution and is aimed at developers of all levels. Your page will easily have a rich and friendly operating experience. Compared with similar components, layer will be more chosen by developers. This is not only winning by "face", but it is trying to show more robust functions with less code as much as possible, and pays special attention to performance improvement, ease of use and practicality. The layer is even compatible with IE6. All major browsers. Its considerable number of basic attributes and methods allow you to customize as many styles as you need. Each layer mode has its own characteristics and is very popular. Of course, this "Wang Po sells melons" statement always sounds a bit uncomfortable, so you need to know more about whether she is really what you want.
 
-## 愿景
-成为网页弹出层的首先交互方案
+[Documentation and Demo] (http://layer.layui.com/) - no longer working, using (http://web.archive.org/web/20211012022926/https://layer.layui.com/)
 
-## 现状
-因着数年的坚持维护，已被运用在不计其数 Web 平台。几乎所处可见，其中还不乏众多知名大型网站。layer 已被国内乃至全世界至少数十万的开发者所使用过。
+## Vision
+Become the first interactive solution for the pop-up layer of the web page
+
+## Status Quo
+With years of consistent maintenance, it has been used on countless web platforms. It can be seen almost everywhere, including many well-known large websites. layer has been used by at least hundreds of thousands of developers in China and around the world.
 
 
-## 相关
-[官网](http://layer.layui.com/)
+## Relevant
+[official website] (http://layer.layui.com/) - no longer working, using (http://web.archive.org/web/20211012022926/https://layer.layui.com/)
